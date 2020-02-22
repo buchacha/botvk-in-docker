@@ -1,0 +1,4 @@
+images/
+.secure_data.json
+resources/
+dockervenv/

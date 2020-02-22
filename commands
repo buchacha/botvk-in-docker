@@ -1,0 +1,6 @@
+docker build -t bot .
+docker run --rm bot (-p 8080:8080)
+docker ps (-a -q)
+docker images
+docker stop container_name
+docker image rm image_name
